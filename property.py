@@ -1,5 +1,3 @@
-# Tutorial from https://www.programiz.com/python-programming/property
-
 class Celsis:
     def __init__(self, temperature=0):
         self._temperature = temperature
